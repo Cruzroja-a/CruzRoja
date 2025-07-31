@@ -78,7 +78,7 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
         _seleccionados.remove(index);
       } else {
         _seleccionados.add(index);
-      }//nose
+      }//n
     });
   }
 
