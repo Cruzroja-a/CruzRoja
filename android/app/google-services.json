@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120085245294",
+    "project_id": "cruzroja-9015d",
+    "storage_bucket": "cruzroja-9015d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120085245294:android:25bb552135eff2154aa57f",
+        "android_client_info": {
+          "package_name": "com.example.CruzRoja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8zW9OcONSgUKQko9Zt6_fdM0L3shwQGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
